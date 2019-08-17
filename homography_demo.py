@@ -26,3 +26,4 @@ dst = cv2.addWeighted(cricket_field, alpha, im_out, beta, 0.0)
 
 plt.imshow(dst)
 plt.show()
+plt.imsave('./images/cricket_4.jpeg')
