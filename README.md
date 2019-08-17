@@ -2,7 +2,7 @@
 
 ## Examples of overlaying advertisement in cricket field
 
-![Before](./images/cricket_5.jpeg) ![After](./images/cricket_5_res.jpeg) 
+![Before](./images/cricket_6.jpg) ![After](./images/cricket_6_res.jpg) 
 
 ## Exmaple of using homography to correct camera angle of papers
 ![Before](./images/input.png) ![After](./images/output.png)
