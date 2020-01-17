@@ -3,9 +3,7 @@
 ## Examples of overlaying advertisement in cricket field
 
 ![Before](./images/cricket_6.jpg) 
-#Add
-![Add](./images/pepsi.png) 
-#Voila!!
+#Add the square logo to the grounds angle
 ![After](./images/cricket_6_res.jpg) 
 
 
